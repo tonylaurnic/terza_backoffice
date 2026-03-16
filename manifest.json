@@ -1,6 +1,6 @@
 {
-    "name": "spiaggia_backoffice",
-    "short_name": "spiaggia_backoffice",
+    "name": "table_app",
+    "short_name": "table_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
